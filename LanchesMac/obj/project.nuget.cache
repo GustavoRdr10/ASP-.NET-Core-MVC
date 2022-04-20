@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CTGI4s0GY97szRaY3Tzk/5VAazJ0sr00LWfONdWjGiQlkDUQgcGTTqj54gxOcF6o2N/CHwggS6Rx5+lSbxzjGA==",
+  "dgSpecHash": "kMHoYtRC7nsv8SdN0WRktoGUJFyVzRBmzBP+HZFx1k5Ubs9pRdfuZkrwYB5rEQwymXgHUlS7kApXeV7WmqZqzg==",
   "success": true,
   "projectFilePath": "C:\\Users\\rodriguesgus\\source\\repos\\LanchesMac\\LanchesMac\\LanchesMac.csproj",
   "expectedPackageFiles": [
@@ -160,7 +160,9 @@
     "C:\\Users\\rodriguesgus\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\rodriguesgus\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\rodriguesgus\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\rodriguesgus\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\rodriguesgus\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\rodriguesgus\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\rodriguesgus\\.nuget\\packages\\xunit.extensibility.core\\2.4.1\\xunit.extensibility.core.2.4.1.nupkg.sha512"
   ],
   "logs": []
 }

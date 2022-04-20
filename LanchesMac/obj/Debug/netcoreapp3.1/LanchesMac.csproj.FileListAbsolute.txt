@@ -156,3 +156,5 @@ C:\Users\rodriguesgus\source\repos\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1
 C:\Users\rodriguesgus\source\repos\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Contato\Index.cshtml.g.cs
 C:\Users\rodriguesgus\source\repos\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoriaMenu\Default.cshtml.g.cs
 C:\Users\rodriguesgus\source\repos\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Lanche\Details.cshtml.g.cs
+C:\Users\rodriguesgus\source\repos\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+C:\Users\rodriguesgus\source\repos\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\xunit.core.dll
